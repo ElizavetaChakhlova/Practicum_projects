@@ -6,3 +6,4 @@
 |---|--------|----------|------|
 | 1 | [Яндекс.Книги: проверка гипотезы](01_yandex_books_hypothesis/) | Сравнение активности пользователей Москвы и СПб | Python, pandas, scipy |
 | 2 | [BitMotion Kit: A/B-тест](02_bitmotion_ab_test/) | Оценка новой версии интерфейса магазина | Python, pandas, statsmodels |
+| 3| [Приложение с "бесконечной" летной](03_recommendation_algorithm_ab_test/)| Оценка нового алгоритма рекомендаций | Python, pandas, scipy, statsmodels |
